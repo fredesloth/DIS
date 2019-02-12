@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90f3e472-326e-409b-942b-28cd20d43c10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/NameServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/ReaderThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/ServerObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/TCPClientTalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/WriterThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DIS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DIS.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/NameServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/NameServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/TCPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/TCPClient.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,58 +18,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/TCPClientTalk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-494">
+              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v3/TCPServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11" />
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/TCPClient.java">
+        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/NameServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/NameServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="989">
-              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/Reader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/Writer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/ServerObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="-11">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -80,6 +68,7 @@
         <option value="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/Writer.java" />
         <option value="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/NameServer.java" />
         <option value="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/TCPClient.java" />
+        <option value="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/TCPClientTalk.java" />
       </list>
     </option>
   </component>
@@ -95,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,17 +123,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Talk_v4_Name" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIS" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 04 - Socket programmering" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Talk_v5_UDP" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549965222906" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549974379948" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -154,7 +150,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.Talk_v5_UDP" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP" />
       <recent name="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name" />
     </key>
   </component>
@@ -220,11 +220,12 @@
       <workItem from="1549957846214" duration="4527000" />
       <workItem from="1549962473824" duration="266000" />
       <workItem from="1549963467070" duration="1750000" />
+      <workItem from="1549985288558" duration="235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7392000" />
+    <option name="totallyTimeSpent" value="8166000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -238,7 +239,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="768" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27045456" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30227274" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -248,7 +249,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32767403" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32615894" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39898133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -258,7 +259,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32919255" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32767403" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32615894" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -331,6 +332,28 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v3/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/TCPClientTalk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/NameServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
