@@ -1,6 +1,5 @@
 package src.Talk_v5_UDP;
 
-import src.Talk_v4_Name.Reader;
 import src.Talk_v4_Name.Writer;
 
 import java.io.BufferedReader;
@@ -49,7 +48,7 @@ public class TCPClient {
 
 
         Socket clientSocket= new Socket(fromNameServer.readLine(), 6789);
-        Writer wt = new Writer(clientSocket);
+        src.Talk_v4_Name.Writer wt = new Writer(clientSocket);
         Reader rt = new Reader(clientSocket);
         wt.start();
         rt.start();

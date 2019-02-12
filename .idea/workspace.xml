@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90f3e472-326e-409b-942b-28cd20d43c10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/UDPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/UDPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/Writer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/NameServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/NameServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/ServerObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/ServerObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/TCPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/TCPClient.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +23,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/TCPClient.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/UDPServer.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="336">
               <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+=======
+            <state relative-caret-position="276">
+              <caret line="15" column="47" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="15" selection-end-column="47" />
+>>>>>>> Stashed changes
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/NameServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,7 +54,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/UDPClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> Stashed changes
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -39,10 +86,13 @@
         <option value="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/Writer.java" />
         <option value="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/NameServer.java" />
         <option value="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/TCPClient.java" />
+        <option value="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/UDPServer.java" />
+        <option value="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/UDPClient.java" />
+        <option value="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/NameServer.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -54,6 +104,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< Updated upstream
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+>>>>>>> Stashed changes
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,18 +148,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Talk_v4_Name" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIS" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 04 - Socket programmering" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Talk_v5_UDP" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< Updated upstream
       <pane id="PackagesPane" />
       <pane id="Scope" />
+=======
+>>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< Updated upstream
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549966028156" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549973765068" />
+>>>>>>> Stashed changes
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -132,11 +201,11 @@
   </component>
   <component name="RunManager" selected="Application.TCPClient">
     <configuration name="NameServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Talk_v4_Name.NameServer" />
+      <option name="MAIN_CLASS_NAME" value="src.Talk_v5_UDP.NameServer" />
       <module name="DIS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Talk_v4_Name.*" />
+          <option name="PATTERN" value="src.Talk_v5_UDP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +214,11 @@
       </method>
     </configuration>
     <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Talk_v4_Name.TCPClient" />
+      <option name="MAIN_CLASS_NAME" value="src.Talk_v5_UDP.TCPClient" />
       <module name="DIS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Talk_v4_Name.*" />
+          <option name="PATTERN" value="src.Talk_v5_UDP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +252,21 @@
       <workItem from="1549966086926" duration="32000" />
       <workItem from="1549966158056" duration="50000" />
       <workItem from="1549966245543" duration="57000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1549966733682" duration="342000" />
+      <workItem from="1549967109812" duration="1432000" />
+      <workItem from="1549969219758" duration="2014000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="8358000" />
+=======
+    <option name="totallyTimeSpent" value="12146000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,7 +280,11 @@
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="768" extended-state="6" />
     <layout>
+<<<<<<< Updated upstream
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2840909" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2977273" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -251,11 +334,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v3/TCPClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v3/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v3/TCPServer.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -273,11 +355,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37">
           <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+=======
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/Writer.java">
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v3/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/ServerObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="100">
           <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
         </state>
@@ -287,13 +386,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
+=======
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v4_Name/TCPClient.java">
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/TCPClient.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/UDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/UDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/NameServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="336">
           <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+=======
+        <state relative-caret-position="403">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
