@@ -29,7 +29,26 @@ public class NameServer {
             dataOutputStream = new DataOutputStream(connectionSocket.getOutputStream());
             name = input.readLine();
             dataOutputStream.writeBytes(findServer(name, serverObjects) + "\n");
+
+            switch (name){
+                case "list":
+                    String string = serverObjects.toString();
+                    dataOutputStream.writeBytes(string + "\n");
+                    break;
+                case "add":
+                    socket.getInetAddress();
+                    String ip = socket.getInetAddress().toString();
+                    name = input.readLine();
+                    serverObjects.add(new ServerObject(name, ip));
+                    dataOutputStream.writeBytes(serverObjects.toString());
+                    break;
+
+                default:
+                    dataOutputStream.writeBytes(findServer(name, serverObjects) + "\n");
+            }
+
         }
+
 
     }
 
@@ -41,4 +60,6 @@ public class NameServer {
         }
         return null;
     }
+
+
 }

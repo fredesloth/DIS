@@ -4,6 +4,10 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Lektion 04 - Socket programmering" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lektion 05 -" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Lektion 04 - Socket programmering/src/Talk_v1" />
+      <excludeFolder url="file://$MODULE_DIR$/Lektion 04 - Socket programmering/src/Talk_v2" />
+      <excludeFolder url="file://$MODULE_DIR$/Lektion 04 - Socket programmering/src/Talk_v3" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
