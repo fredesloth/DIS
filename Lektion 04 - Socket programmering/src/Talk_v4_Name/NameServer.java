@@ -37,7 +37,7 @@ public class NameServer {
                     break;
                 case "add":
                     socket.getInetAddress();
-                    String ip = socket.getInetAddress().toString().substring(1);
+                    String ip = connectionSocket.getInetAddress().getHostAddress();
                     name = input.readLine();
                     serverObjects.add(new ServerObject(name, ip));
                     dataOutputStream.writeBytes(serverObjects.toString());

@@ -17,12 +17,15 @@ public class TCPClient {
         //dataOutputStream.writeBytes(string + "\n");
         BufferedReader fromNameServer = null;
 
-        fromNameServer = new BufferedReader(new InputStreamReader(nameSocket.getInputStream()));
 
         boolean serverFound = false;
         while(!serverFound){
+            nameSocket = new Socket("10.24.3.206", 6790);
+            dataOutputStream = new DataOutputStream(nameSocket.getOutputStream());
             String string = input.readLine();
+            fromNameServer = new BufferedReader(new InputStreamReader(nameSocket.getInputStream()));
             dataOutputStream.writeBytes(string + "\n");
+            fromNameServer =new BufferedReader(new InputStreamReader(nameSocket.getInputStream()));
             switch (string){
                 case "list":
                     System.out.println(fromNameServer.readLine());
