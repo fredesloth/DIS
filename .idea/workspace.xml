@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90f3e472-326e-409b-942b-28cd20d43c10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/NameServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/ReaderThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/ServerObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/TCPClientTalk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/WriterThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DIS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DIS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="90f3e472-326e-409b-942b-28cd20d43c10" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/TCPClientTalk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-494">
+            <state relative-caret-position="322">
               <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -32,15 +24,13 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v3/TCPServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/NameServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
+            <state relative-caret-position="23">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
@@ -84,6 +74,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,7 +126,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,11 +211,12 @@
       <workItem from="1549962473824" duration="266000" />
       <workItem from="1549963467070" duration="1750000" />
       <workItem from="1549985288558" duration="235000" />
+      <workItem from="1550043510542" duration="73000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8166000" />
+    <option name="totallyTimeSpent" value="8239000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -238,8 +229,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30227274" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3068182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -335,14 +327,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v3/TCPServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/TCPClientTalk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-494">
+        <state relative-caret-position="322">
           <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -350,9 +337,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v3/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lektion 04 - Socket programmering/src/Talk_v5_UDP/NameServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
+        <state relative-caret-position="23">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
